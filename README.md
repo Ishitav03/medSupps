@@ -1,15 +1,17 @@
 # meds_supps
+MedSupps is a flutter application where the raise can raise request for emergency medical supplies.
+It provides:
+<ul>
+  <li>User Registration</li>
+  <li>User Login</li>
+  <li>Current location detection</li>
+  <li>Request raised for supplies</li>
+  <li>Viewing the orders</li>
+  <li>Rating the app</li>
+</ul>
 
-A new Flutter project.
+https://github.com/Ishitav03/medSupps/assets/80648745/8077db16-12b0-41c1-9e23-859d0daa9296
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
